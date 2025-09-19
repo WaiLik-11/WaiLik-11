@@ -1,5 +1,3 @@
 - 👋 Hi, I’m @WaiLik-11
 - 👀 I’m passionate about learning something new every day.
 - 🌱 Currently, I’m in my final year pursuing a Bachelor's Degree in Computer Engineering. My interest in programming led me to teach myself coding through YouTube, where I deepened my knowledge of full-stack web development.
-- I recently completed my internship, which further sparked my enthusiasm for automation.
-- I’m excited to explore more about automating processes and creating efficient solutions in real-world scenarios.
